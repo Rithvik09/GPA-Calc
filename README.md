@@ -35,8 +35,10 @@ List the ready features here:
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/34558093/139105423-df897ba1-4099-46cf-949e-50be8959305d.png)
-![image](https://user-images.githubusercontent.com/34558093/139105492-3c44ef3f-249f-4d9b-a7ae-82ba02cbe69c.png)
+![image](https://user-images.githubusercontent.com/34558093/139171509-5b40039e-5ce6-480c-b440-9b9b0316227b.png)
+![image](https://user-images.githubusercontent.com/34558093/139172078-18a1b823-841f-4d04-8836-a0f46eb65500.png)
+![image](https://user-images.githubusercontent.com/34558093/139172106-27a5b305-7858-4969-b4b0-cd13e5a0787f.png)
+![image](https://user-images.githubusercontent.com/34558093/139172136-90d6a50a-72fb-4e3f-b5aa-70820a6b11b3.png)
 
 
 ## Setup
