@@ -20,7 +20,7 @@ This program calculates both weighted and unweighted GPA for a specific school d
 
 - This program helps students get to know their current weighted and unweighted GPA at any point in time based on their grades. 
 - The purpose of this program is to provide transparency to students on where they stand at any point in time in terms of their GPA.
-- All the calculations included in this program are based on research studies found online. 
+- All the calculations included in this program are based on the Rithvik's school board process and is reusable for other school boards. 
 
 
 ## Technologies Used
@@ -29,8 +29,10 @@ This program calculates both weighted and unweighted GPA for a specific school d
 
 ## Features
 List the ready features here:
-- your the year of study in high school (such as "Freshman", "Sophomore", "Junior" or "Senior") as input.
-- "Back" button helps to initiate and run it multiple times
+- Takes the school year such as "Freshman", "Sophomore", "Junior" or "Senior" as input
+- For "Freshman" year, current Weighted and Unweighted GPAs are calculated from the input grades
+- For other years ("Sophomore", "Junior" or "Senior"), cumulative GPA values are displayed and also taken into account for calculation in addition to current grades
+- All courses offered in the school district are provided in the dropdown list with "type ahead" feature
 
 
 ## Screenshots
@@ -59,16 +61,16 @@ Project is: _complete_
 ## Room for Improvement
 
 Room for improvement:
-- Additional validations for the amount value
+- User friendly messages
 
 To do:
-- Display the % allocation for each component
-- Provide option to edit the allocation % and see results
+- Provide option to input target GPA to see various grades/credits that a student should get in their courses.
+- Provide option to edit grades/credits for individual courses to recalculate GPA values
 
 
 ## Acknowledgements
 
-- This project was inspired by me getting to imagine how I can spend my future income effectively. 
+- I was inspired to do this project as the school website was not able to show my projected GPAs at any point in time. In our school district, we get frequent tests in class and as grades/credits starts to come, it makes me curious to see how these grades/credits influence my cumulative GPAs. Hence I did this program. This code is reusable with minimal changes for other school districts.
 
 
 ## Contact
